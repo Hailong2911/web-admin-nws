@@ -1,0 +1,26 @@
+
+.App-header {
+    background-color: black;
+    min-height: 100vh;
+    display:flex;
+    flex-direction: columnn;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color:wheat;
+}
+
+.footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:50px;
+    background-color: black;
+    text-align: center;
+    color: wheat;
+}
+#btn-add{
+   display: inline-block;
+   color: aqua;
+
+}
